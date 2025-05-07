@@ -11,17 +11,17 @@ Ich liebe es, Technik mit medizinischem Nutzen zu verbinden. Egal ob digitale An
 ⸻
 
 🚀 Aktuell lerne ich:
-	•	🎨 Processing – kreative Visualisierungen & medizinische Grafiken
-	•	⚙️ JavaScript – interaktive Anwendungen mit smarter Logik
+- 🎨 Processing – kreative Visualisierungen & medizinische Grafiken
+- ⚙️ JavaScript – interaktive Anwendungen mit smarter Logik
 
 ⸻
 
 🤝 Lust auf ein Projekt?
 
 Ich freue mich über Kooperationen in Bereichen wie:
-	•	Medizinisches Coding
-	•	Webtools für Diagnose oder Pflege
-	•	Digitale Helfer für den Alltag
+- Medizinisches Coding
+- Webtools für Diagnose oder Pflege
+- Digitale Helfer für den Alltag
 
 ⸻
 
