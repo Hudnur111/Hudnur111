@@ -1,76 +1,53 @@
-# Hi, ich bin Denny 👋  
-Angehender Fachinformatiker / technisch interessierter Schüler aus Deutschland 🇩🇪  
+# Hallo 👋
 
-Technik · Netzwerke · Systeme · praktische Projekte  
+Willkommen auf meinem GitHub-Profil.
 
----
+## Über mich
 
-## 🚀 Kurzprofil
+Ich interessiere mich für die Entwicklung praktischer, sauber strukturierter und zuverlässiger digitaler Lösungen.  
+Meine Schwerpunkte liegen in den Bereichen Softwareentwicklung, Webtechnologien, Automatisierung und strukturiertes Problemlösen.
 
-Ich interessiere mich besonders für IT-Systeme, Netzwerke und technische Zusammenhänge.  
-Aktuell arbeite ich daran, mein Wissen im Bereich Systemintegration und IT-Praxis weiter auszubauen.
+Ich arbeite gerne an Projekten, die Funktionalität, Benutzerfreundlichkeit und klares Design miteinander verbinden.  
+Mein Fokus liegt darauf, verständlichen Code zu schreiben, kontinuierlich dazuzulernen und mich durch praktische Erfahrung stetig zu verbessern.
 
-👉 Mein Ziel: Eine Ausbildung im Bereich Fachinformatik oder Technik.
+## Fähigkeiten
 
----
+- Webentwicklung
+- Softwareentwicklung
+- Grundlagen in UI / UX
+- Strukturiertes Problemlösen
+- Technische Dokumentation
 
-## 🧠 Aktuell
+## Technologien
 
-- 📡 Weiterbildung im Bereich Netzwerktechnik (Cisco Networking Academy)  
-- 🛠️ Mitarbeit im Hackwerk Aalen (seit 10/2025)  
-- 🔧 Arbeiten an eigenen Projekten (z. B. ESP32 / Verkehrsdaten)  
-- 📚 Aufbau von Wissen in Linux, IT-Systemen und Netzwerken  
+- HTML
+- CSS
+- NumPy
+- Python
+- Git
+- GitHub
 
----
+## Aktueller Fokus
 
-## 💻 Kenntnisse
+- Entwicklungsprozesse verbessern
+- Praktische Projekte umsetzen
+- Technisches Wissen erweitern
+- Sauberen und wartbaren Code schreiben
 
-**IT & Technik**
-- Netzwerktechnik (Grundlagen)
-- IT-Support & Fehleranalyse
-- Systemverständnis (Hardware & Software)
+## Projekte
 
-**Programmierung**
-- Python (NumPy, Grundlagen Datenverarbeitung)
-- HTML & CSS (Webseiten)
+Hier finden sich persönliche Projekte, technische Experimente und praktische Entwicklungen.  
+Die meisten Repositories dienen dem Lernen, dem Aufbau neuer Fähigkeiten und der Entwicklung sinnvoller Lösungen.
 
-**Tools**
-- Git & GitHub
-- Microsoft Office 365
+## Ziele
 
----
+- Technische Fähigkeiten kontinuierlich ausbauen
+- An sinnvollen Projekten mitwirken
+- Strukturierten und sauberen Code pflegen
 
-## 🛠️ Projekte
 
-### 📡 C2X-Empfänger (ESP32)
-- Verarbeitung von Verkehrsdaten  
-- Ziel: Integration in Open Traffic Map  
-- Entwicklung im Hackwerk Aalen  
-
-👉 Weitere Projekte folgen kontinuierlich.
-
----
-
-## 📚 Hintergrund
-
-- Studium Medizintechnik (aktuell, Fokus auf Technik & Systeme)  
-- Fachhochschulreife (BKP II)  
-- Staatlich geprüfter Assistent im Gesundheits- und Sozialwesen  
-
----
-
-## 🎯 Ziel
-
-Ich möchte mich fachlich und praktisch im IT-Bereich weiterentwickeln  
-und eine Ausbildung als Fachinformatiker für Systemintegration beginnen.
-
----
-
-## 📫 Kontakt
+## Kontakt
 
 - 📧 E-Mail: dennysvalin2@gmail.com  
 - 🌐 Website: https://hudnur111.github.io/Website-denny-svalina/
 
----
-
-> Technik verstehen. Systeme aufbauen. Probleme lösen.
